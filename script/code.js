@@ -1,7 +1,8 @@
 const fullName = Vue.createApp({
     data: function() {
         return{
-            name: 'Joshé' + '' + 'Theys'
+            name: 'Joshé', 
+            surname: 'Theys'
         }
     }
 });
